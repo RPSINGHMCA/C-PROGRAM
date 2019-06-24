@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main() {
+   int a, b;
+
+   a = 12;
+   b = 18;
+
+   if(a > b)
+      printf("a is greater than b");
+   else
+      printf("a is not greater than b");
+
+   return 0;
+}
