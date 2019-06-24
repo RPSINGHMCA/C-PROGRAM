@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main()
+{
+  c='a';
+  printf("Value in c %d",c);
+	
+	 return 0;
+	
+	}
+	
