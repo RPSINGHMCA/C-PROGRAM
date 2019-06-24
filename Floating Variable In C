@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()
+{
+
+   float f;
+   f = 122.55555555;
+  printf("Value in c %f",c);
+	
+	 return 0;
+	
+	}
