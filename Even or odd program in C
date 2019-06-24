@@ -29,7 +29,7 @@ int main()
 
 
 * Program to check if number is even or odd
- * using bitwise operator
+ * using bitwise operator  */
  
 #include<stdio.h>
  
@@ -47,7 +47,5 @@ int main()
  
    return 0;
 }
-
-*/
 
 
