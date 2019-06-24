@@ -3,7 +3,7 @@ int main()
 {
 char c;
   c='a';
-  printf("Value in c %d",c);
+  printf("Value in c %c",c);
 	
 	 return 0;
 	
